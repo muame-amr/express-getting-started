@@ -7,7 +7,7 @@ Basic usage of Express and MongoDB to create a simple REST API. [Express](https:
 1. Clone the repository
 
 ```bash
-git clone
+git clone https://github.com/muame-amr/express-getting-started.git
 ```
 
 2. Install dependencies
